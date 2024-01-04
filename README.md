@@ -18,3 +18,10 @@ We are currently working on a Digital Twin and AR project, focusing on CO@ and T
 [![](https://visitcount.itsvg.in/api?id=Emer3ld&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Unity:
+### Prerequisites
+1. Unity version 2022.3.2f1c1 LTS
+2. Plug-ins: UniGLTF-1.27,https://github.com/ousttrue/UniGLTF/releases & XCharts, https://github.com/XCharts-Team/XCharts/releases/tag/v3.8.0
+3. Material pack: https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182
